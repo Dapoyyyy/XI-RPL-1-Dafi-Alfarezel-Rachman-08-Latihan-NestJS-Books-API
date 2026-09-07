@@ -1,4 +1,4 @@
-# XI-RPL-1-Dafi-Alfarezel-Rachman-08-Latihan-NestJS-Books-API
+<img width="1600" height="899" alt="image" src="https://github.com/user-attachments/assets/54d7de1f-717b-4fde-b798-ea238407abd1" /># XI-RPL-1-Dafi-Alfarezel-Rachman-08-Latihan-NestJS-Books-API
 
 # 1.Buka aplikasi Postman, lalu buat Collection baru dengan nama "Latihan NestJS - Books API".
 
@@ -11,4 +11,8 @@
 <img width="1600" height="899" alt="image" src="https://github.com/user-attachments/assets/343fc226-0d74-4e95-9013-ba5c271f0927" />
 
 # 4.Ulangi request GET /books — pastikan data buku baru sudah muncul di dalam daftar.
+
+# 5.Buat request baru: GET  http://localhost:3000/books/2 — pastikan menampilkan detail buku dengan id = 2.
+
+<img width="1600" height="899" alt="image" src="https://github.com/user-attachments/assets/da55e23f-c6cc-4c9f-9847-537116cd7586" />
 
