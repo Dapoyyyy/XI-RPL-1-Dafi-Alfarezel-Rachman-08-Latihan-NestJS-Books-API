@@ -1,4 +1,3 @@
-<img width="1600" height="899" alt="image" src="https://github.com/user-attachments/assets/54d7de1f-717b-4fde-b798-ea238407abd1" /># XI-RPL-1-Dafi-Alfarezel-Rachman-08-Latihan-NestJS-Books-API
 
 # 1.Buka aplikasi Postman, lalu buat Collection baru dengan nama "Latihan NestJS - Books API".
 
