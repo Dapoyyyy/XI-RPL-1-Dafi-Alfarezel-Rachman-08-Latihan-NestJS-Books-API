@@ -5,4 +5,8 @@ export class AppService {
   getHello(): string {
     return 'Hello World!';
   }
+
+  getCats(): string {
+    return 'This action returns all cats';
+  }
 }
